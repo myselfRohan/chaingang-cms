@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5b29f4c-7ec9-48f9-8390-ad191881322d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1gSkJ2QPfbVVWPiU3HOjX3XEP3U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/laravel6" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5b29f4c-7ec9-48f9-8390-ad191881322d" name="Default Changelist" comment="" />
+      <created>1598115306819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598115306819</updated>
+      <workItem from="1598115312475" duration="398000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="404" y="82" key="FileChooserDialogImpl" timestamp="1598115710903">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="404" y="82" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1598115710903" />
+    <state x="181" y="0" key="SettingsEditor" timestamp="1598115685523">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="181" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1598115685523" />
+    <state x="379" y="207" key="com.intellij.ide.util.TipDialog" timestamp="1598115314209">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="379" y="207" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1598115314209" />
+  </component>
+</project>
